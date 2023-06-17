@@ -1,8 +1,8 @@
 ## Olá! Eu sou Gisele Araujo
 <div>
     <a href="https://github.com/Gisele-Silva325">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Silva325&show_icons=true&include_all_commits=true&count_private=true&bg_color=00FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&icon_color=2d175a&theme=synthwave"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Silva325&layout=compact&langs_count=7&bg_color=00FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&theme=synthwave"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Silva325&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&icon_color=2d175a&theme=synthwave"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Silva325&layout=compact&langs_count=7&bg_color=FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&theme=synthwave"/>
   </div>
   
 ### Tecnologias
