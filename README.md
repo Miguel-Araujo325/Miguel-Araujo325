@@ -19,6 +19,5 @@
 </div>
   
 
-  <a href="https://www.linkedin.com/in/gisele-araujo-50b90827b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> <br />
 <img src = "https://64.media.tumblr.com/1d039da300b9cc499ff2a77c5d36401b/701f9247ed01642a-e3/s500x750/74c3c2c8ef7022606d7601ce83fc8682bc76d400.gif"/>
