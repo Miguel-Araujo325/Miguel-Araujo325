@@ -6,7 +6,7 @@
 
 ## About me
 - 🎓 **Information Systems student**
-- 💻 **Currently focusing on Microsoft Azure basics certifications**
+- 💻 **3x Microsoft Certified**
 - 🍮 **Sweet Tooth**
 
 ## Technologies and Tools
