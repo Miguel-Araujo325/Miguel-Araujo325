@@ -6,7 +6,7 @@
 
 ## About me
 - 🎓 **Information Systems student**
-- 💻 **3x Microsoft Certified**
+- 💻 **4x Microsoft Certified**
 - 🍮 **Sweet Tooth**
 
 ## Technologies and Tools
